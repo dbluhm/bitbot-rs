@@ -1,0 +1,5 @@
+endpoint = "https://api.telegram.org/bot"
+function = "sendMessage"
+token = "<YOUR TOKEN HERE>"
+chat_id = "<YOUR CHAT ID HERE>"
+markdown = true
